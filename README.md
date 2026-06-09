@@ -117,6 +117,6 @@ and analyzes their ability to learn model parameters and make predictions.
 
 
 
- Author
+## Author
 
 Ishani Kabra
